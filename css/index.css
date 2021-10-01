@@ -276,11 +276,9 @@ footer nav a {
 }
 
 .main-section div{
-    margin-top: 3%;
-    margin-bottom: 6%;
+    margin: 3% 2% 6%;
     border-bottom: 1px dashed black;
-    width: 50%;
-    padding: 0 2%;
+    width: 46%;  
 }
 
 .main-section img, p{
